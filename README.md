@@ -1,7 +1,7 @@
 # mobilenetv3-tf2.1
-A tf2.1 implementation of google's mobilenetv3 with pretrain weights.  
+A tf2.1 implementation of google's mobilenetv3-small with pretrain weights.  
 
-  Rewrite xiaolai-sqlai's mbv3 with tf2.1.  
+  Rewrite xiaolai-sqlai's mbv3-small with tf2.1.  
   
   You can get more information in https://github.com/xiaolai-sqlai/mobilenetv3  
   
